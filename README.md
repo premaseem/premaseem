@@ -1,16 +1,21 @@
 ### Hi there 👋
+- 🔭 I’m code on different languages like Python, Java, Java script, GoLang, Groovy
+- 🌱 I’m a Author of Tech book on GOF design patterns, check out the repo - https://github.com/premaseem/DesignPatternsJava9
+- 💬 Ask me about MongoDb, NoSQL databases, cloud computing, coding, yoga and meditation as well ;-) 
+- 📫 How to reach me: : Visit my blog https://premaseem.wordpress.com/about/
 
-<!--
-**premaseem/premaseem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### ![ http://in.linkedin.com/in/premaseem](https://github.com/premaseem/DesignPatternsJava9/blob/master/linkedin.png "http://in.linkedin.com/in/premaseem") Profile:  http://in.linkedin.com/in/premaseem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learn Design Patterns with Java by Aseem Jain
+This repository contains working project code used in video Course by Packt Publication with title "Learn Design Patterns with Java " authored by "Aseem Jain".
+https://www.packtpub.com/application-development/learn-design-patterns-java-9-video
+
+### Course introduction Video
+[![Course introduction video ](http://img.youtube.com/vi/U9jz3omyb_Y/0.jpg)](https://www.youtube.com/watch?v=U9jz3omyb_Y&feature=youtu.be)
+
+Click to play video 
+
+
+
+
