@@ -7,15 +7,13 @@
 
 ### ![ http://in.linkedin.com/in/premaseem](https://github.com/premaseem/DesignPatternsJava9/blob/master/linkedin.png "http://in.linkedin.com/in/premaseem") Profile:  http://in.linkedin.com/in/premaseem
 
-### Learn Design Patterns with Java by Aseem Jain
-This repository contains working project code used in video Course by Packt Publication with title "Learn Design Patterns with Java " authored by "Aseem Jain".
-https://www.packtpub.com/application-development/learn-design-patterns-java-9-video
 
-### Course introduction Video
+### I am author of Video book on Design patterns: 
 [![Course introduction video ](http://img.youtube.com/vi/U9jz3omyb_Y/0.jpg)](https://www.youtube.com/watch?v=U9jz3omyb_Y&feature=youtu.be)
 
 Click to play video 
 
-
+This repository contains working project code used in video Course by Packt Publication with title "Learn Design Patterns with Java " authored by "Aseem Jain".
+https://www.packtpub.com/application-development/learn-design-patterns-java-9-video
 
 
