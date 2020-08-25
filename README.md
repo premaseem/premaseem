@@ -13,7 +13,9 @@
 
 Click to play video 
 
-This repository contains working project code used in video Course by Packt Publication with title "Learn Design Patterns with Java " authored by "Aseem Jain".
+Check out the code repository with working code exampole of different design patterns over here : https://github.com/premaseem/DesignPatternsJava9
+
+Visit Packt Publication webiste to find my bootk with title "Learn Design Patterns with Java " authored by "Aseem Jain".
 https://www.packtpub.com/application-development/learn-design-patterns-java-9-video
 
 
